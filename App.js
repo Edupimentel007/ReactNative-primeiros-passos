@@ -9,7 +9,7 @@ return (
 <View style={styles.secondaryContainer}>
 
 <Text style= {{color: 'blue',  fontWeight: 'bold', fontSize: 30, textAlign: 'right'}}>Eduardo Gramignolli Pimentel</Text>
-<Text style= {{color: 'blue',  fontWeight: 'italic', fontSize: 25, borderWidth: 1, borderColor: 'red' }}>Notebook 13</Text>
+<Text style= {{color: 'blue',  fontStyle: 'italic', fontSize: 25, borderWidth: 1, borderColor: 'red' }}>Notebook 13</Text>
 <Text style= {{color: 'blue',  fontSize: 20, textAlign: 'center', backgroundColor: 'pink'}}>7</Text>
 <Text style= {{color: 'blue',  fontSize: 15, textAlign: 'center', backgroundColor: 'pink', borderWidth: 1, borderColor: 'blue', backgroundColor: 'yellow'}}>text</Text>
 
